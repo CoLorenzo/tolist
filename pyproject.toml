@@ -1,0 +1,9 @@
+
+[project]
+name = "tolist"
+version = "0.1.0"
+description = "tolist CLI"
+requires-python = ">=3.7"
+
+[project.scripts]
+tolist = "tolist:main"
